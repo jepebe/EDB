@@ -5,3 +5,7 @@
 
 ## REST
 [Misappropriation of REST](https://twobithistory.org/2020/06/28/rest.html)
+
+## Microservices and Serverless
+[Microservices vs. Serverless](https://www.sumologic.com/blog/microservices-vs-serverless-architecture/)
+
