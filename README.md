@@ -10,5 +10,10 @@
 [Microservices vs. Serverless](https://www.sumologic.com/blog/microservices-vs-serverless-architecture/)
 
 ## Software Craftsmanship
-
 [yagni](https://martinfowler.com/bliki/Yagni.html)
+
+## Unix/Linux
+[Unix vs. Linux](https://rubenerd.com/im-not-sure-that-unix-won/)
+
+## Reverse Engineering
+[Removing License Checks in Legacy Software](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
