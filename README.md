@@ -17,3 +17,6 @@
 
 ## Reverse Engineering
 [Removing License Checks in Legacy Software](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
+
+## FFT
+[FFT and Moiré](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
