@@ -9,3 +9,6 @@
 ## Microservices and Serverless
 [Microservices vs. Serverless](https://www.sumologic.com/blog/microservices-vs-serverless-architecture/)
 
+## Software Craftsmanship
+
+[yagni](https://martinfowler.com/bliki/Yagni.html)
