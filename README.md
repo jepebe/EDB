@@ -6,6 +6,11 @@
 ## REST
 [Misappropriation of REST](https://twobithistory.org/2020/06/28/rest.html)
 
+## Serverless
+>Whether the benefits of flexibility and cost are worth the added complexity of multiple backend components is very context dependent.
+
+[Serverless Architectures](https://martinfowler.com/articles/serverless.html)
+
 ## Microservices and Serverless
 [Microservices vs. Serverless](https://www.sumologic.com/blog/microservices-vs-serverless-architecture/)
 
