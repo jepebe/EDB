@@ -2,6 +2,7 @@
 
 ## Apps
 [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
+[12 Factor Apps](https://12factor.net)
 
 ## REST
 [Misappropriation of REST](https://twobithistory.org/2020/06/28/rest.html)
