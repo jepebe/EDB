@@ -9,6 +9,7 @@
 
 ## Serverless
 >Whether the benefits of flexibility and cost are worth the added complexity of multiple backend components is very context dependent.
+>“Stored Procedures as a Service.” ??
 
 [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 
