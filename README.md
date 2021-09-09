@@ -34,3 +34,7 @@
 
 [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 
+>  ...fishfooding (using a prototype within your team) and dogfooding (using a prototype within your company)
+
+[Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
