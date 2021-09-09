@@ -42,4 +42,6 @@
 ## Testing
 > ...write expressive tests that establish clear boundaries, run quickly & reliably, and only fail for useful reasons.
 
+> ...Architecture Astronautics...
+
 [Testing in the Twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
