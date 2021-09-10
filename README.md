@@ -19,6 +19,9 @@
 
 ## Software Craftsmanship
 - [yagni](https://martinfowler.com/bliki/Yagni.html)
+
+> It’s harder to read code than to write it.
+
 - [Things you should never do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
 ## Unix/Linux
