@@ -18,7 +18,8 @@
 [Microservices vs. Serverless](https://www.sumologic.com/blog/microservices-vs-serverless-architecture/)
 
 ## Software Craftsmanship
-[yagni](https://martinfowler.com/bliki/Yagni.html)
+- [yagni](https://martinfowler.com/bliki/Yagni.html)
+- [Things you should never do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
 ## Unix/Linux
 [Unix vs. Linux](https://rubenerd.com/im-not-sure-that-unix-won/)
