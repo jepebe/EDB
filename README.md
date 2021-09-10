@@ -45,3 +45,8 @@
 > ...Architecture Astronautics...
 
 [Testing in the Twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
+
+
+## Frontend
+
+[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
