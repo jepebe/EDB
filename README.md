@@ -52,9 +52,13 @@
 
 
 ## Frontend
-
 [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
 ## Language Design
 [Synchronous vs Asynchronous](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+
+## Building and Comiling
+> We bias towards dynamic linking when we should bias towards static linking.
+
+[Static vs dynamic linking](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 
