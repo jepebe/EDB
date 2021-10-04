@@ -57,6 +57,8 @@
 ## Language Design
 [Synchronous vs Asynchronous](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 
+[ABI's Haunted](https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please)
+
 ## Building and Compiling
 > We bias towards dynamic linking when we should bias towards static linking.
 
