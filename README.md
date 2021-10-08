@@ -64,3 +64,5 @@
 
 [Static vs dynamic linking](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 
+[Extending Python with Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
+
