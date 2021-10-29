@@ -7,6 +7,9 @@
 ## REST
 [Misappropriation of REST](https://twobithistory.org/2020/06/28/rest.html)
 
+## Cloud
+[The Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
+
 ## Serverless
 >Whether the benefits of flexibility and cost are worth the added complexity of multiple backend components is very context dependent.
 
@@ -23,6 +26,8 @@
 > It’s harder to read code than to write it.
 
 - [Things you should never do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+- [Experience from 20 years in Software Engineering](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 ## Unix/Linux
 [Unix vs. Linux](https://rubenerd.com/im-not-sure-that-unix-won/)
