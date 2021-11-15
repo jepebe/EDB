@@ -32,6 +32,8 @@
 ## Unix/Linux
 [Unix vs. Linux](https://rubenerd.com/im-not-sure-that-unix-won/)
 
+[Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lessons Learned](https://www.youtube.com/watch?v=FbDebSinSQo)
+
 ## Reverse Engineering
 [Removing License Checks in Legacy Software](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
 
@@ -71,3 +73,6 @@
 
 [Extending Python with Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
 
+
+## Computer Science History
+[Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
